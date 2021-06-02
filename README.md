@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**nystuen/nystuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ådne Nystuen
+I have a bachelor degree in Computer Engineering from the Norwegian University of Science and Technology.
+Currently I am working as a IT consultant at [Netcompany](https://www.netcompany.com).
+ 
+<a href="https://www.linkedin.com/in/adne-nystuen/">
+  <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-Here are some ideas to get you started:
+### Latest activity:
+> #### Current 
+> Developing an iOS app for [Nabohjelp](https://nye.obos.no/nabohjelp/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> #### 08-2020 until 01-2021
+> Developed a TSP solution for [Fremtind Service](https://fremtindservice.no/)
+
+> #### 01-2020 until 05-2020
+> Developed a innovative product for [Sportradar](https://www.sportradar.com/)
+
+### Latest technologies
+*Languages*  
+<img src="https://img.shields.io/badge/-Typescript-313131?style=for-the-badge&logo=Typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/-C--Sharp-313131?style=for-the-badge&logo=C-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Swift-313131?style=for-the-badge&logo=Swift&logoColor=white"/>
+
+*Frontend*  
+<img src="https://img.shields.io/badge/-React-313131?style=for-the-badge&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Vue.js-313131?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS-313131?style=for-the-badge&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-UIKit-313131?style=for-the-badge&logo=Flutter&logoColor=white"/>
+
+*Backend*  
+<img src="https://img.shields.io/badge/-.NET-313131?style=for-the-badge&logo=.NET&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Node.js-313131?style=for-the-badge&logo=Node.js&logoColor=white"/>
