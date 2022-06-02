@@ -2,7 +2,7 @@
 
 My name is Ådne Nystuen. <br>
 I have a bachelor degree in Computer Engineering from the Norwegian University of Science and Technology.
-I am currently working as an IT consultant at [Netcompany](https://www.netcompany.com).
+I am currently working as an IT consultant at [Kodeworks](https://kodeworks.no/).
  
 <a href="https://www.linkedin.com/in/adne-nystuen/">
   <img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
