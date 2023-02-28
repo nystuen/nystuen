@@ -25,6 +25,7 @@ I am currently working as an IT consultant at [Kodeworks](https://kodeworks.no/)
 <img src="https://img.shields.io/badge/-C--Sharp-313131?style=for-the-badge&logo=C-sharp&logoColor=white"/>
 
 *Frontend*  
+<img src="https://img.shields.io/badge/-SwiftUI-313131?style=for-the-badge&logo=UIKit&logoColor=white"/>
 <img src="https://img.shields.io/badge/-UIKit-313131?style=for-the-badge&logo=UIKit&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-313131?style=for-the-badge&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Vue.js-313131?style=for-the-badge&logo=vue&logoColor=white"/>
