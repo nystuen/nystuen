@@ -23,6 +23,7 @@ I am currently working as an IT consultant at [Kodeworks](https://kodeworks.no/)
 <img src="https://img.shields.io/badge/-Swift-313131?style=for-the-badge&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Typescript-313131?style=for-the-badge&logo=Typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-C--Sharp-313131?style=for-the-badge&logo=C-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Java-313131?style=for-the-badge&logo=Java&logoColor=white"/>
 
 *Frontend*  
 <img src="https://img.shields.io/badge/-SwiftUI-313131?style=for-the-badge&logo=UIKit&logoColor=white"/>
@@ -32,6 +33,6 @@ I am currently working as an IT consultant at [Kodeworks](https://kodeworks.no/)
 <img src="https://img.shields.io/badge/-CSS-313131?style=for-the-badge&logo=css&logoColor=white"/>
 
 *Backend*  
-<img src="https://img.shields.io/badge/-Java-313131?style=for-the-badge&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Spring-boot-313131?style=for-the-badge&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/-.NET-313131?style=for-the-badge&logo=.NET&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-313131?style=for-the-badge&logo=Node.js&logoColor=white"/>
