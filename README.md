@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi 👋
+
+
+<!--
 
 My name is Ådne Nystuen. <br>
 I have a bachelor degree in Computer Engineering from the Norwegian University of Science and Technology.
@@ -36,3 +39,5 @@ I am currently working as an IT consultant at [Kodeworks](https://kodeworks.no/)
 <img src="https://img.shields.io/badge/-Spring-313131?style=for-the-badge&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/-.NET-313131?style=for-the-badge&logo=.NET&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Node.js-313131?style=for-the-badge&logo=Node.js&logoColor=white"/>
+
+-->
